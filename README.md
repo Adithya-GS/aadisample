@@ -1,1 +1,1 @@
-# aadisample
+# sample repo for practise
